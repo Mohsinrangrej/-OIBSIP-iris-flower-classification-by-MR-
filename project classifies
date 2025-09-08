@@ -1,0 +1,32 @@
+https://colab.research.google.com/drive/1gSc5zzNgqd2DGfrZlc7E2CgxJGb1uzkF#scrollTo=Fis3JEZmocXq&line=16&uniqifier=1
+Irish Flower Classification using Logistic Regression
+
+This project classifies Iris flowers into three species (Setosa, Versicolor, Virginica) using the classic Iris dataset from scikit-learn. It applies a logistic regression model with proper preprocessing, visualizations, and evaluation metrics.
+
+Features
+
+🌸 Visualization of class distribution and feature correlation.
+
+⚙️ StandardScaler preprocessing.
+
+🧠 Logistic Regression model with O(log n) inference complexity.
+
+✅ Evaluation metrics: Accuracy, Confusion Matrix, Classification Report.
+
+💾 Model saved using joblib for portability.
+
+How to Run
+
+Install requirements using: pip install -r requirements.txt
+
+Open and run Iris_Flower_Classification.ipynb in Jupyter Notebook or Google Colab.
+
+The trained model (.joblib) can be reused for predictions.
+
+Requirements
+
+See requirements.txt for necessary packages.
+
+Author
+
+Mohseen Rangrez
